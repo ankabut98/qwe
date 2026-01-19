@@ -4,6 +4,6 @@
     {
         System.Console.WriteLine("Hi there");
         System.Console.WriteLine("We are the champions!");
-        
+        Form.GetForm();
     }
 }
